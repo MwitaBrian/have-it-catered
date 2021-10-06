@@ -1,0 +1,16 @@
+body{
+  background-color: whitesmoke;
+  color: maroon;
+  font-family: sans-serif;
+}
+
+h1, h2{
+  text-align: center;
+  font-style: italic;
+
+}
+
+a{
+  color: maroon;
+  font-size: large;
+}
